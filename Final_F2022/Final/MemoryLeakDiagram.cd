@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Theory">
+    <Position X="1" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAQAAAAAAAACAAAgAAgEAAA=</HashCode>
+      <FileName>C:\code\keenan2022spring_csc461\instructor\Assignments\Assignments\Final_W2021\Final_S2022\Final_S2022_Answers\Final\Theory.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Compiler">
+    <Position X="1" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAEAAAACAAAAAAAAAAAAAAAAAQAgAAAEAAA=</HashCode>
+      <FileName>C:\code\keenan2022spring_csc461\instructor\Assignments\Assignments\Final_W2021\Final_S2022\Final_S2022_Answers\Final\Compiler.h</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="poFirst" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Language">
+    <Position X="3.25" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAABACAAAAAAAAgAAAAAAAAAAAAAAAAAgAAABAAA=</HashCode>
+      <FileName>C:\code\keenan2022spring_csc461\instructor\Assignments\Assignments\Final_W2021\Final_S2022\Final_S2022_Answers\Final\Language.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

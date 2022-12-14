@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Vect">
+    <Position X="0.5" Y="0.75" Width="1.5" />
+    <Members>
+      <Method Name="~Vect" Hidden="true" />
+      <Method Name="operator=" Hidden="true" />
+      <Method Name="Vect" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAgAIAAAAAAAAAAAAAAAAAAAABgAQAAAAA=</HashCode>
+      <FileName>C:\code\keenan2022fall_csc461\instructor\Assignments\Final_W2021\Final_F2022\Final_F2022_to_Student\Final\Vect.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CDM">
+    <Position X="3" Y="0.75" Width="1.5" />
+    <Members>
+      <Method Name="~CDM" Hidden="true" />
+      <Method Name="CDM" Hidden="true" />
+      <Method Name="GetInstance" Hidden="true" />
+      <Method Name="GetSqrtCount" Hidden="true" />
+      <Method Name="operator=" Hidden="true" />
+      <Field Name="psInstance" Hidden="true" />
+      <Field Name="sqrtCount" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAACAAAAAAAAAABAQAABAAABAgABAAAAA=</HashCode>
+      <FileName>CDM.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

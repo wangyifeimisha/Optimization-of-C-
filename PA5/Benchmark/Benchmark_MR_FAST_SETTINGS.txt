@@ -1,0 +1,19 @@
+
+------------------- 
+
+MR_FAST - Settings
+
+Name: <Your Name>
+
+Compiler Settings
+	- List any changes to the compiler settings here
+	--> Fill in as you improve the tests
+
+example:
+
+Use Unicode For Assembler Listing: orig: <unset>   now:  No <modified>
+
+Various...
+
+
+--- End of File
